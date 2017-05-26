@@ -1,7 +1,7 @@
 {
-  "name": "todoapp",
+  "name": "boilerplateapp",
   "version": "1.0.0",
-  "description": "A Todo App with React",
+  "description": "A React Boilerplate App",
   "main": "server.js",
   "scripts": {
     "test": "karma start",
