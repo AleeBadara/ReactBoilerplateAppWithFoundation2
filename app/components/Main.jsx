@@ -1,13 +1,9 @@
 const React = require('react');
-const { HashRouter, Route, NavLink } = require('react-router-dom');
 
-class Main extends React.Component {
-    render() {
-        return (
-            <h3>React Boilerplate App with Foundation</h3>
-        );
-    }
-
+const Main = () => {
+    return (
+        <h2 className="title">React Boilerplate App</h2>
+    )
 }
 
-module.exports = Main;
+module.exports= Main;
